@@ -1,6 +1,4 @@
 // Tutorial Video: youtube.com/watch?v=ZQL7tL2S0oQ
-// Localhost:5000/graphql?
-// npm run devStart <= 'devStart' cmd can be changed from package.json script
 const express = require('express');
 const { graphqlHTTP } = require('express-graphql');
 const {
